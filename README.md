@@ -73,7 +73,7 @@ ABDULLAH HEDAYAT- Team leader and developer
 
 ```bash
 # clone the repo
-git clone <repo-url>
+git clone https://github.com/way1abdullah-crypto/kabadiwala-connect
 cd kabadiwala-connect
 
 # install dependencies
